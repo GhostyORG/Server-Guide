@@ -1,0 +1,47 @@
+{
+    "OWNER": ["719660045817872394", "614841986289106957"],
+
+    "SETTINGS": {
+        "Prefix": ">",
+        "Roles": {
+            "AcceptRoles": "1023285555280232548",
+
+            "Pronouns": {
+                "Male": "1016121576648880148",
+                "Female": "1043958680980295760"
+            },
+            "Notification": {
+                "AnnouncementRoles": "1043958707454746754",
+                "UploadRoles": "1043958982202622012",
+                "PollRoles": "1043958709698699415",
+                "EventRoles": "1043958713251278959",
+                "PartnerRoles": "1043958852145664080"
+            },
+            "Color": {
+                "Red": "1043958853601075342",
+                "Pink": "1043958854934863954",
+                "Orange": "1043958855224279141",
+                "Yellow": "1043960421205422290",
+                "Magenta": "1043960453107290202",
+                "Purple": "1043960448996876378",
+                "Lime": "1043960450464895047",
+                "Green": "1043960708192280739",
+                "Cyan": "1043960711329632406",
+                "Blue": "1043960711421898803",
+                "Brown": "1043960712155901992",
+                "White": "1043960903097405510",
+                "Silver": "1043960904653479966",
+                "Gray": "1043960974228607086",
+                "Black": "1043961003639046174"
+            }
+        }
+    },
+
+    "CONNECTIONS": {
+        "DISCORD_TERMS_OF_SERVICE": "https://discord.com/terms",
+        "COMMUNITY_GUIDELINES": "https://discord.com/guidelines",
+        "DISCORD_SUPPORT": "https://discord.gg/ztDEQjwKbP",
+        "WEBSITE": "https://ghostydevs.vercel.app/",
+        "YOUTUBE": "https://youtube.com/"
+    }
+}
